@@ -1,0 +1,12 @@
+.modal-footer{
+    display: flex;
+    justify-content: center;
+}
+
+.w-100px{
+    width: 100px;
+}
+
+.alert-danger{
+    font-size: 0.8rem;
+}
